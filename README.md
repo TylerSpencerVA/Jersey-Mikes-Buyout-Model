@@ -1,4 +1,4 @@
-# Jersey-Mike-s-Buyout-Model
+# Jersey-Mikes-Buyout-Model
 Models PE returns for the Blackstone buyout of Jersey Mike's Subs
 
 This is a simple model for Blackstone's buyout of Jersey Mike's Subs. In early 2025, Blackstone took a majority stake in the sandwich franchise at an $8 billion valuation. Last week, the company filed its S-1 and
